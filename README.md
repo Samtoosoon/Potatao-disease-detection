@@ -34,6 +34,6 @@ This project highlights the potential of machine learning in plant disease diagn
 4. Access the web application by navigating to `http://localhost:8000` in your web browser.
 
    ## 🚀 Try It Out on Google Colab
-You can run the model and test it directly on Google Colab by following this [link](https://colab.research.google.com/drive/1Aok7p4P8kQ9-ecpiL029g1Q2CuOPbl4x?usp=sharing).
+You can run the model and test it directly on Google Colab by following this [link](https://colab.research.google.com/drive/1Cm7MhhVoPYFhjmXPLqdig4ikEBp8R0y_).
 
 
