@@ -36,5 +36,6 @@ This project highlights the potential of machine learning in plant disease diagn
    ## 🚀 Try It Out on Google Colab
 You can run the model and test it directly on Google Colab by following this [link](https://colab.research.google.com/drive/1V0ZpvulLkPJ9QU3APLYuYP7QMz4GqVB2#scrollTo=Knw_pqZn1NZg).
 [link](https://www.kaggle.com/code/samtoosoon/potato-disease-classification)
+[link](https://www.canva.com/design/DAGXrNcLfrU/nETLsJbuPthC9SKDRlSPHQ/edit)
 
 
